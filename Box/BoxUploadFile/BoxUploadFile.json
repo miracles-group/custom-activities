@@ -21,7 +21,7 @@
         },
         {
           "value": "",
-          "required": true,
+          "required": false,
           "key": "NameFile",
           "label": "Name",
           "labelKey": "NameFile",
