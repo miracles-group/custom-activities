@@ -21,7 +21,7 @@
         {
           "value": "",
           "required": true,
-          "key": "clienId",
+          "key": "clientId",
           "label": "ClientID",
           "label key": "clientId",
           "baseType": "control",
