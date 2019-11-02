@@ -13,7 +13,7 @@ namespace Ayehu.Sdk.AWSS3
         public string bucketName;
         public string AccessKey;
         public string SecretKey;
-        public static S3CannedACL cannedACL = S3CannedACL.Private;
+        private static S3CannedACL cannedACL = S3CannedACL.Private;
         public ICustomActivityResult Execute()
         {
             var message = string.Empty;
